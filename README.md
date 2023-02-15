@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on interesting technical problems
 - 🤔 I’m looking for help with accelerating my technical learning
-- 💬 Ask me about [voice acting](https://heythrive.webflow.io/act) and [applying poetry in developing products](https://www.youtube.com/watch?v=uuZOXaPc4JU&list=PLfB4lO23hfyMG4NCGESw3mdn8Yl-u8rz_&index=2)
-- 📫 How to reach me: share a [voice note](https://anchor.fm/thrivingroom/message) or write me at thrivingroom@substack.com
+- 💬 Ask me about <a href="https://heythrive.webflow.io/act" target="_blank">voice acting</a> and <a href="https://www.youtube.com/watch?v=uuZOXaPc4JU&list=PLfB4lO23hfyMG4NCGESw3mdn8Yl-u8rz_&index=2" target="_blank">applying poetry in developing products</a>
+- 📫 How to reach me: share a <a href="https://anchor.fm/thrivingroom/message" target="_blank">voice note</a> or write me at thrivingroom@substack.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy scuba diving
 
