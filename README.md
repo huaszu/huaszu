@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy scuba diving
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=huaszu)](https://github.com/huaszu)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=huaszu&hide_border=true&mode=weekly)](https://github.com/huaszu)
