@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about <a href="https://heythrive.webflow.io/act" target="_blank">voice acting</a> and <a href="https://www.youtube.com/watch?v=uuZOXaPc4JU&list=PLfB4lO23hfyMG4NCGESw3mdn8Yl-u8rz_&index=2" target="_blank">applying poetry in developing products</a>
 - 📫 How to reach me: share a <a href="https://anchor.fm/thrivingroom/message" target="_blank">voice note</a> or write me at thrivingroom@substack.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy scuba diving and learning [human languages[(https://www.duolingo.com/profile/delasarthe) as well
+- ⚡ Fun fact: I enjoy scuba diving and learning [human languages](https://www.duolingo.com/profile/delasarthe) as well
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=huaszu&hide_border=true&mode=weekly)](https://github.com/huaszu)
