@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy scuba diving and learning [human languages](https://www.duolingo.com/profile/delasarthe) as well
 
-##### See my portfolio [here](https://huaszu.github.io).
-Always open to feedback
+#### See my portfolio [here](https://huaszu.github.io).
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=huaszu&hide_border=true&mode=weekly)](https://github.com/huaszu)
