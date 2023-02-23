@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 #### See my portfolio [here](https://huaszu.github.io).
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=huaszu&hide_border=true&mode=weekly)](https://github.com/huaszu)
+
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?logo=Flask&logoColor=black)
