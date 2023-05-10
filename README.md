@@ -2,20 +2,9 @@
 
 <!--
 **huaszu/huaszu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a full-stack web application that supports emotional health
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on interesting technical problems
-- 🤔 I’m looking for help with accelerating my technical learning
-- 💬 Ask me about voice acting
-- 📫 How to reach me: share a [voice note](https://anchor.fm/thrivingroom/message) or write me at thrivingroom@substack.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy scuba diving
 -->
 - 🔭 I’m currently working on a full-stack web application that supports emotional health
-- 🌱 I’m currently learning Python
+- 🌱 I’m curious about how to strike balances among runtime, space, implementation time, maintainability, and readability
 - 👯 I’m looking to collaborate on interesting technical problems
 - 🤔 I’m looking for help with accelerating my technical learning
 - 💬 Ask me about <a href="https://heythrive.webflow.io/act" target="_blank">voice acting</a> and <a href="https://www.youtube.com/watch?v=uuZOXaPc4JU&list=PLfB4lO23hfyMG4NCGESw3mdn8Yl-u8rz_&index=2" target="_blank">applying poetry in developing products</a>
@@ -45,5 +34,3 @@ Here are some ideas to get you started:
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
-
-
