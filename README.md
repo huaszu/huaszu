@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on a full-stack web application that supports emotional health
 - 🌱 I’m curious about how to strike balances among runtime, space, implementation time, maintainability, and readability
 - 👯 I’m looking to collaborate on interesting technical problems
-- 🤔 I’m looking for help with accelerating my technical learning
+- 🤔 I’m looking for help to accelerate my technical learning
 - 💬 Ask me about <a href="https://heythrive.webflow.io/act" target="_blank">voice acting</a> and <a href="https://www.youtube.com/watch?v=uuZOXaPc4JU&list=PLfB4lO23hfyMG4NCGESw3mdn8Yl-u8rz_&index=2" target="_blank">applying poetry in developing products</a>
+- ⚡ I enjoy scuba diving and learning [human languages](https://www.duolingo.com/profile/delasarthe) as well
 - 📫 How to reach me: share a <a href="https://anchor.fm/thrivingroom/message" target="_blank">voice note</a> or write me at thrivingroom@substack.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy scuba diving and learning [human languages](https://www.duolingo.com/profile/delasarthe) as well
 
 #### See my portfolio [here](https://huaszu.github.io).
 
